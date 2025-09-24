@@ -1,0 +1,67 @@
+# สร้างโฟลเดอร์ย่อย
+mkdir -p public src/{assets,components/{common,Project,Cluster,Location,Hardware,NetworkInterface,SwitchConnection},hooks,pages,utils}
+
+# สร้างไฟล์ในโฟลเดอร์ public
+touch public/favicon.ico
+touch public/logo.png
+
+# สร้างไฟล์ในโฟลเดอร์ src/assets
+touch src/assets/index.css
+
+# สร้างไฟล์ในโฟลเดอร์ src/components/common
+touch src/components/common/Navbar.jsx
+touch src/components/common/Pagination.jsx
+touch src/components/common/SearchBar.jsx
+touch src/components/common/ErrorMessage.jsx
+
+# สร้างไฟล์ในโฟลเดอร์ src/components/Project
+touch src/components/Project/ProjectList.jsx
+touch src/components/Project/ProjectForm.jsx
+
+# สร้างไฟล์ในโฟลเดอร์ src/components/Cluster
+touch src/components/Cluster/ClusterList.jsx
+touch src/components/Cluster/ClusterForm.jsx
+
+# สร้างไฟล์ในโฟลเดอร์ src/components/Location
+touch src/components/Location/LocationList.jsx
+touch src/components/Location/LocationForm.jsx
+
+# สร้างไฟล์ในโฟลเดอร์ src/components/Hardware
+touch src/components/Hardware/HardwareList.jsx
+touch src/components/Hardware/HardwareForm.jsx
+
+# สร้างไฟล์ในโฟลเดอร์ src/components/NetworkInterface
+touch src/components/NetworkInterface/NetworkInterfaceList.jsx
+touch src/components/NetworkInterface/NetworkInterfaceForm.jsx
+
+# สร้างไฟล์ในโฟลเดอร์ src/components/SwitchConnection
+touch src/components/SwitchConnection/SwitchConnectionList.jsx
+touch src/components/SwitchConnection/SwitchConnectionForm.jsx
+
+# สร้างไฟล์ในโฟลเดอร์ src/components
+touch src/components/Login.jsx
+touch src/components/Dashboard.jsx
+
+# สร้างไฟล์ในโฟลเดอร์ src/hooks
+touch src/hooks/useApi.js
+touch src/hooks/useAuth.js
+
+# สร้างไฟล์ในโฟลเดอร์ src/pages
+touch src/pages/HomePage.jsx
+touch src/pages/LoginPage.jsx
+touch src/pages/DashboardPage.jsx
+touch src/pages/ProjectPage.jsx
+touch src/pages/ClusterPage.jsx
+touch src/pages/LocationPage.jsx
+touch src/pages/HardwarePage.jsx
+touch src/pages/NetworkInterfacePage.jsx
+touch src/pages/SwitchConnectionPage.jsx
+
+# สร้างไฟล์ในโฟลเดอร์ src/utils
+touch src/utils/api.js
+touch src/utils/format.js
+
+# สร้างไฟล์หลักใน src และ root
+touch src/App.jsx
+touch src/main.jsx
+touch .env .gitignore index.html package.json vite.config.js postcss.config.js tailwind.config.js Dockerfile

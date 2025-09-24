@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Project Alpha", "owner": "Alice", "description": "Web application hosting infrastructure" },
+  { "id": 2, "name": "Project Beta", "owner": "Bob", "description": "Big data processing and analytics cluster" },
+  { "id": 3, "name": "Project Gamma", "owner": "Charlie", "description": "Database servers for internal services" }
+]
+

@@ -1,0 +1,13 @@
+.d3-tooltip {
+    /* To display the tooltip properly */
+    position: absolute;
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+    font-family: sans-serif;
+    font-size: 14px;
+    pointer-events: none; /* Crucial: ensures the tooltip doesn't interfere with mouse events */
+    visibility: hidden;
+    z-index: 1000;
+}

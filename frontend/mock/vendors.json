@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Dell" },
+  { "id": 2, "name": "HP" },
+  { "id": 3, "name": "Cisco" },
+  { "id": 4, "name": "Juniper" },
+  { "id": 5, "name": "Supermicro" },
+  { "id": 6, "name": "Quanta" },
+  { "id": 7, "name": "Arista" },
+  { "id": 8, "name": "VMware" },
+  { "id": 9, "name": "Red Hat" }
+]
+

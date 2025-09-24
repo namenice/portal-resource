@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Active", "description": "In production use" },
+  { "id": 2, "name": "Inactive", "description": "Powered down, but ready for use" },
+  { "id": 3, "name": "Maintenance", "description": "Undergoing maintenance or repair" },
+  { "id": 4, "name": "Decommissioned", "description": "Retired from service" },
+  { "id": 5, "name": "Pending", "description": "Waiting for installation or assignment" }
+]

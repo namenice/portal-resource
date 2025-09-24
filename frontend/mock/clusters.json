@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Web Cluster 01", "project_id": 1, "description": "Cluster for web servers" },
+  { "id": 2, "name": "DB Cluster 01", "project_id": 1, "description": "Cluster for databases" },
+  { "id": 3, "name": "Hadoop Cluster 01", "project_id": 2, "description": "Hadoop cluster for analytics" }
+]
+

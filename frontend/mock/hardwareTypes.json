@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Server", "description": "General-purpose computing hardware" },
+  { "id": 2, "name": "Network Switch", "description": "Hardware for network switching" },
+  { "id": 3, "name": "Storage Array", "description": "Dedicated storage hardware" },
+  { "id": 4, "name": "Firewall", "description": "Network security hardware" },
+  { "id": 5, "name": "Load Balancer", "description": "Hardware for distributing network traffic" }
+]
+

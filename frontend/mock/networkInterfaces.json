@@ -1,0 +1,6 @@
+[
+  { "id": 1, "hardware_id": 1, "interface_name": "eth0", "ip_address": "192.168.1.10", "netmask": "/24", "gateway": "192.168.1.1", "mac_address": "AA:BB:CC:DD:EE:F1", "vlan": "VLAN10", "is_primary": true },
+  { "id": 2, "hardware_id": 1, "interface_name": "eth1", "ip_address": "192.168.2.10", "netmask": "/24", "gateway": "192.168.2.1", "mac_address": "AA:BB:CC:DD:EE:F2", "vlan": "VLAN20", "is_primary": false },
+  { "id": 3, "hardware_id": 2, "interface_name": "eth0", "ip_address": "192.168.1.11", "netmask": "/24", "gateway": "192.168.1.1", "mac_address": "AA:BB:CC:DD:EE:F3", "vlan": "VLAN10", "is_primary": true }
+]
+

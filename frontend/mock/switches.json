@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Core-Switch-A", "model_id": 1, "vendor_id": 1, "location_id": 1, "ip_mgmt": "192.168.10.1", "note": "Main core switch for Data Center A", "specifications": "48-port 10G SFP+, 4-port 40G QSFP+" },
+  { "id": 2, "name": "Dist-Switch-Bldg-B", "model_id": 2, "vendor_id": 2, "location_id": 2, "ip_mgmt": "192.168.20.1", "note": "Distribution switch for Building B", "specifications": "24-port 1G RJ45, 2-port 10G SFP+" },
+  { "id": 3, "name": "Access-Switch-Office-C1", "model_id": 3, "vendor_id": 3, "location_id": 3, "ip_mgmt": "192.168.30.1", "note": "Access switch for Office C, 1st floor", "specifications": "48-port 1G PoE+, 4-port 1G SFP" }
+]
+
